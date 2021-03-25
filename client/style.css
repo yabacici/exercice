@@ -1,0 +1,19 @@
+body {
+    /* background-color: ghostwhite; */
+    background-image: url(world.jpg);
+    /* background-position: center; */
+    /* background-size: cover; */
+    /* height: 100%; */
+}
+
+.location-box {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+#mapid {
+    height: 200px;
+    border: 2px solid red;
+    /* background-color: aqua; */
+}
