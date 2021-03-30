@@ -50,7 +50,7 @@ I used the boiler plate from one of my previous project during my 3-month bootca
 
 ### What would I have done differently ?
 
-This project is really interesting and I have acquired lots of knowledge in a short amount of time. Since I was not familiar with OSM. I would have spent more time reading the documentation. I would also
+This project is really interesting and I have acquired lots of knowledge in a short amount of time. Since I was not familiar with OSM. I would have spent more time reading the documentation. 
 
 ## Getting Started
 
